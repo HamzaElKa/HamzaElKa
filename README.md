@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=CS+Engineering+Student+%40+INSA+Lyon;Building+AI-powered+products;Looking+for+my+PFE+starting+Jan+2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=CS+Engineering+Student+%40+INSA+Lyon;Building+AI-powered+tools)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,21 +21,6 @@ CS Engineering student at **INSA Lyon**, specializing in AI, NLP and fullstack d
 **Tourist POI Detection** — Analyzed 168,000 Flickr photos of Lyon to identify points of interest via geospatial clustering and NLP, for Grand Lyon. `DBSCAN` `TF-IDF` `scikit-learn` `Folium`
 
 **AirWatcher** — Smart-city air quality analysis app: AQI computation, sensor similarity detection. `C++` `Design Patterns` `UML`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaElKa&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaElKa&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HamzaElKa&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HamzaElKa&theme=tokyo-night&hide_border=true)
-
-</div>
 
 ---
 
@@ -65,7 +50,7 @@ CS Engineering student at **INSA Lyon**, specializing in AI, NLP and fullstack d
 
 ## 📫 Reach me
 
-📧 [hamza.el-karchouni@insa-lyon.fr](mailto:hamza.el-karchouni@insa-lyon.fr) · 💼 [LinkedIn](https://linkedin.com/in/hamza-el-karchouni) · 📄 [Download my CV](docs/CV_Hamza_EN.pdf)
+📧 [hamza.el-karchouni@insa-lyon.fr](mailto:hamza.el-karchouni@insa-lyon.fr) · 💼 [LinkedIn](https://linkedin.com/in/hamza-el-karchouni)
 
 <div align="center">
 
