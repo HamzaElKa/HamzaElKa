@@ -18,7 +18,7 @@ CS Engineering student at **INSA Lyon**, specializing in AI, NLP and fullstack d
 
 **Luvibot** — Multichannel chatbot with hybrid NLU (Rasa + LLM), real-time conversation management via Chatwoot. `Rasa NLU` `Mistral AI` `Flask` `Docker`
 
-**Tourist POI Detection** — Analyzed 168,000 Flickr photos of Lyon to identify points of interest via geospatial clustering and NLP, for Grand Lyon. `DBSCAN` `TF-IDF` `scikit-learn` `Folium`
+**[Tourist POI Detection](https://github.com/HamzaElKa/data_mining)** — Analyzed 168,000 Flickr photos of Lyon to identify points of interest via geospatial clustering and NLP, for Grand Lyon. `DBSCAN` `TF-IDF` `scikit-learn` `Folium`
 
 **AirWatcher** — Smart-city air quality analysis app: AQI computation, sensor similarity detection. `C++` `Design Patterns` `UML`
 
