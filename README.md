@@ -44,7 +44,6 @@ CS Engineering student at **INSA Lyon**, specializing in AI, NLP and fullstack d
 
 - Preparing for PFE interviews (Data/AI/Conseil IT)
 - Exploring agentic AI workflows and LLM tooling
-- Polishing JobBoost AI (CI/CD, test coverage, deployment)
 
 ---
 
