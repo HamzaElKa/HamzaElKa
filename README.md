@@ -8,7 +8,7 @@ CS Engineering student at **INSA Lyon**, specializing in AI, NLP and fullstack d
 
 🎓 Exchange semester at **Université Laval** (Québec) — NLP, Big Data, Data Mining
 💼 Previously: AI Consultant Developer @ **Onepoint** (Paris) — built SlideForge, an AI tool auto-generating PowerPoint presentations
-🔍 Looking for my **end-of-studies internship (PFE)**, starting January 2027, focused on Data/AI
+🔍 Looking for my **end-of-studies internship (PFE)**, starting January 2027
 
 ---
 
